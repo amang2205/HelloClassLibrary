@@ -1,0 +1,9 @@
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\bin\Debug\netstandard2.0\HelloClassLibrary.deps.json
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\bin\Debug\netstandard2.0\HelloClassLibrary.dll
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\bin\Debug\netstandard2.0\HelloClassLibrary.pdb
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\obj\Debug\netstandard2.0\HelloClassLibrary.csprojResolveAssemblyReference.cache
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\obj\Debug\netstandard2.0\HelloClassLibrary.csproj.CoreCompileInputs.cache
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\obj\Debug\netstandard2.0\HelloClassLibrary.AssemblyInfoInputs.cache
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\obj\Debug\netstandard2.0\HelloClassLibrary.AssemblyInfo.cs
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\obj\Debug\netstandard2.0\HelloClassLibrary.dll
+C:\_proj\_demos\HelloClassLibrary\HelloClassLibrary\obj\Debug\netstandard2.0\HelloClassLibrary.pdb
