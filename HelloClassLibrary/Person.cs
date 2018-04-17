@@ -13,8 +13,8 @@ namespace HelloClassLibrary
         {
             var sb = new StringBuilder();
             sb.Append(
-                DateTime.Now.Hour.Between(0,11) ? "Good morning" :
-                DateTime.Now.Hour.Between(12,18) ? "Good afternoon" : 
+                DateTime.Now.Hour.Between(0, 11) ? "Good morning" :
+                DateTime.Now.Hour.Between(12, 18) ? "Good afternoon" :
                 DateTime.Now.Hour.Between(19, 23) ? "Good night" : ""
                 );
             sb.Append(", ");
